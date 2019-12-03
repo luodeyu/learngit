@@ -9,3 +9,4 @@ Git has a mutable index called stage.
 123
 >>>>>>> dev
 999
+456
